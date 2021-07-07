@@ -1,0 +1,24 @@
+{
+  "name": "graphql-with-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "George Voutyras",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.25.2",
+    "fs": "0.0.1-security",
+    "graphql": "^15.5.1",
+    "mssql": "^7.1.3",
+    "mssql2": "^3.3.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.5",
+    "sequelize-auto": "^0.8.3",
+    "sequelize-cli": "^6.2.0",
+    "tedious": "^11.0.9"
+  }
+}
